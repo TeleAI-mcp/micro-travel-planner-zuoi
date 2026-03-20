@@ -1,2 +1,3 @@
-# micro-travel-planner-zuoi
-A travel planning application for modern development workflows
+# Micro Travel Planner Zuoi
+
+A travel planning application for modern development workflows.
